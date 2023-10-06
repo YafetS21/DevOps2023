@@ -5,4 +5,4 @@ print(svar)
 
 print("Vill du ha något att dricka?")
 dricka = input()
-print(vad bra kombo äta + dricka)
+print("vad bra kombo" äta + dricka)
